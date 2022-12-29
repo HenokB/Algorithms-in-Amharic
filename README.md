@@ -25,7 +25,7 @@ All code contributions are under the MIT License. Copyright (c) 2022 Henok Biadg
 ## Setting up a local instance
 
 ```
-git clone https://github.com/Algorithms-in-Amharic.git
+git clone https://github.com/HenokB/Algorithms-in-Amharic.git
 cd Algorithms-in-Amharic
 ```
 
