@@ -9,6 +9,24 @@
 
 ይህ ፕሮጄክት የአልጎሪዝም ጽንሰ-ሀሳቦችን ግልጽና ቀላል በሆነ ቋንቋ ለመግለጽ፣ አማርኛ መናገር የሚችል ማንኛውም ሰው እንዲያገኘው ለማድረግ - የቴክኒክ ዕውቀት ያላቸውም ሆኑ የሌላቸው
 
+ ## Getting started
 
+If you'd like to help with the repository we'd love to have your contributions! There are four ways you can contribute:
+
+- Work on an existing issue
+- Propose new terms
+- Update existing ones
+- Help translate to other Ethiopian languages(Coming Soon)
+
+## License 
+
+All code contributions are under the MIT License. Copyright (c) 2022 Henok Biadglign Ademtew
+
+## Setting up a local instance
+
+```
+git clone https://github.com/Algorithms-in-Amharic.git
+cd Algorithms-in-Amharic
+```
 
 <p align="center">© 2022 Henok Ademtew ☕️</p>
