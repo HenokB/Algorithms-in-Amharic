@@ -11,6 +11,10 @@
 
 This repository aims to teach algorithms and data structures in the Amharic language. Whether you're a beginner or an experienced developer, this repo serves as a guide to better understand the fundamental algorithms and data structures.
 
+# Course Requirements
+
+- Familarity with Python
+
  ## Getting started
 
 If you'd like to help with the repository we'd love to have your contributions! There are four ways you can contribute:
