@@ -1,4 +1,4 @@
-<h1 align="center"> Algorithms in Amharic </h1>
+<h1 align="center"> አልጎሪዝም በአማርኛ | Algorithms in Amharic </h1>
 
 <p align="center">
    <a href="#contributors"><img src="https://img.shields.io/github/contributors/HenokB/Algorithms-in-Amharic.svg?color=c0c8d0"></a>
@@ -7,7 +7,9 @@
    <a href="https://github.com/HenokB/Algorithms-in-Amharic/commits/main"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/HenokB/Algorithms-in-Amharic?color=8b55e3"/></a> 
 </p> </br>
 
-ይህ ፕሮጄክት የአልጎሪዝም ጽንሰ-ሀሳቦችን ግልጽና ቀላል በሆነ ቋንቋ ለመግለጽ፣ አማርኛ መናገር የሚችል ማንኛውም ሰው እንዲያገኘው ለማድረግ - የቴክኒክ ዕውቀት ያላቸውም ሆኑ የሌላቸው
+ኮምፒውተሮች ከመኖራቸው በፊት አልጎሪዝም ነበረ ። አሁን ግን ኮምፒውተሮች ስላሉ ከዚህም በላይ አልጎሪዝሞች አሉ ። ይህ Github ዘመናዊውን የኮምፒውተር አልጎሪዝም ጥናት በተመለከተ የተሟላ መረጃ ይሰጠናል ። በርካታ አልጎሪዝሞችን ያቀርባል እንዲሁም በጥልቀት ይሸፍናል ፤ ሆኖም ንድፋቸውንና ትንታኔያቸውን ለሁሉም አንባቢዎች ተደራሽ ያደርጋል ። ጥልቀት ያለው ማብራሪያ መስጠት ሳያስፈልገን ተራ በተራ ለመተርጎም ጥረት አድርገናል ። 
+
+This repository aims to teach algorithms and data structures in the Amharic language. Whether you're a beginner or an experienced developer, this repo serves as a guide to better understand the fundamental algorithms and data structures.
 
  ## Getting started
 
@@ -20,7 +22,7 @@ If you'd like to help with the repository we'd love to have your contributions! 
 
 ## License 
 
-All code contributions are under the MIT License. Copyright (c) 2022 Henok Biadglign Ademtew
+All code contributions are under the MIT License. Copyright (c) 2022 Henok Ademtew
 
 ## Setting up a local instance
 
