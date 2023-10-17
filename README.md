@@ -1,4 +1,6 @@
+<img src="![logo pic](https://github.com/HenokB/Algorithms-in-Amharic/assets/46082799/b19e44f0-3e4d-443d-ac30-dfe40e174643)" align="center">
 <h1 align="center"> አልጎሪዝም በአማርኛ | Algorithms in Amharic </h1>
+
 
 <p align="center">
    <a href="#contributors"><img src="https://img.shields.io/github/contributors/HenokB/Algorithms-in-Amharic.svg?color=c0c8d0"></a>
