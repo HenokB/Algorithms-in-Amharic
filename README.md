@@ -1,4 +1,11 @@
-<img src="![logo pic](https://github.com/HenokB/Algorithms-in-Amharic/assets/46082799/b19e44f0-3e4d-443d-ac30-dfe40e174643)" align="center">
+<p align="center">
+ <img width="100px" src="https://github.com/HenokB/Algorithms-in-Amharic/assets/46082799/b19e44f0-3e4d-443d-ac30-dfe40e174643" align="center" alt=" image" />
+ <h2 align="center">አልጎሪዝም በአማርኛ | Algorithms in Amharic</h2>
+ <p align="center">About
+The project aims to define algorithms concepts in clear and simple language, making them accessible to anyone who can speak Amharic irrespective of their technical skill.</p>
+</p>
+
+
 <h1 align="center"> አልጎሪዝም በአማርኛ | Algorithms in Amharic </h1>
 
 
