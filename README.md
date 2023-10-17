@@ -7,7 +7,7 @@
    <a href="https://github.com/HenokB/Algorithms-in-Amharic/commits/main"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/HenokB/Algorithms-in-Amharic?color=8b55e3"/></a> 
 </p> </br>
 
-ኮምፒውተሮች ከመኖራቸው በፊት አልጎሪዝም ነበረ ። አሁን ግን ኮምፒውተሮች ስላሉ ከዚህም በላይ አልጎሪዝሞች አሉ ። ይህ Github ዘመናዊውን የኮምፒውተር አልጎሪዝም ጥናት በተመለከተ የተሟላ መረጃ ይሰጠናል ። በርካታ አልጎሪዝሞችን ያቀርባል እንዲሁም በጥልቀት ይሸፍናል ፤ ሆኖም ንድፋቸውንና ትንታኔያቸውን ለሁሉም አንባቢዎች ተደራሽ ያደርጋል ። ጥልቀት ያለው ማብራሪያ መስጠት ሳያስፈልገን ተራ በተራ ለመተርጎም ጥረት አድርገናል ። 
+ኮምፒውተሮች ከመኖራቸው በፊት አልጎሪዝም ነበረ ። አሁን ግን ኮምፒውተሮች ስላሉ ከዚህም በላይ አልጎሪዝሞች አሉ ። ይህ Github Repo ዘመናዊውን የኮምፒውተር አልጎሪዝም ጥናት በተመለከተ የተሟላ መረጃ ይሰጠናል ። በርካታ አልጎሪዝሞችን ያቀርባል እንዲሁም በጥልቀት ይሸፍናል ፤ ሆኖም ንድፋቸውንና ትንታኔያቸውን ለሁሉም አንባቢዎች ተደራሽ ያደርጋል ። ጥልቀት ያለው ማብራሪያ መስጠት ሳያስፈልገን ተራ በተራ ለመተርጎም ጥረት አድርገናል ። 
 
 This repository aims to teach algorithms and data structures in the Amharic language. Whether you're a beginner or an experienced developer, this repo serves as a guide to better understand the fundamental algorithms and data structures.
 
