@@ -20,6 +20,27 @@ This repository aims to teach algorithms and data structures in the Amharic lang
 
 - Familarity with Python
 
+*******
+
+# Complete Outline
+
+
+## Part 1 - Intro to Algorithms
+
+### [0 - Basics of algorithms in Amharic](https://github.com/Nyandwi/Algorithms-in-Amharic/blob/main/0_python_for_ml/intro_to_python.ipynb)
+
+### [2 - Data Structures](https://github.com/HenokB/Algorithms-in-Amharic)
+
+### [3 - Searching](https://github.com/HenokB/Algorithms-in-Amharic)
+
+### [4 - Sorting](https://github.com/HenokB/Algorithms-in-Amharic)
+
+<!-- 
+* 
+   * 
+   *  -->
+
+
  ## Getting started
 
 If you'd like to help with the repository we'd love to have your contributions! There are four ways you can contribute:
