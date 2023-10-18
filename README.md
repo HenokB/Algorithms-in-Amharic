@@ -25,15 +25,13 @@ This repository aims to teach algorithms and data structures in the Amharic lang
 # Complete Outline
 
 
-## Part 1 - Intro to Algorithms
+### [0 - Basics of algorithms in Amharic](https://github.com/HenokB/Algorithms-in-Amharic/tree/main/0%20-%20Basics%20of%20Algorithms)
 
-### [0 - Basics of algorithms in Amharic](https://github.com/Nyandwi/Algorithms-in-Amharic/blob/main/0_python_for_ml/intro_to_python.ipynb)
+### [1 - Data Structures](https://github.com/HenokB/Algorithms-in-Amharic)
 
-### [2 - Data Structures](https://github.com/HenokB/Algorithms-in-Amharic)
+### [2 - Searching](https://github.com/HenokB/Algorithms-in-Amharic)
 
-### [3 - Searching](https://github.com/HenokB/Algorithms-in-Amharic)
-
-### [4 - Sorting](https://github.com/HenokB/Algorithms-in-Amharic)
+### [3 - Sorting](https://github.com/HenokB/Algorithms-in-Amharic)
 
 <!-- 
 * 
