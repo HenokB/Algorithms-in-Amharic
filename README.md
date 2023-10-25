@@ -33,14 +33,13 @@ This repository aims to teach algorithms and data structures in the Amharic lang
 
 ### [1 - Data Structures](https://github.com/HenokB/Algorithms-in-Amharic)
 
-### [2 - Searching](https://github.com/HenokB/Algorithms-in-Amharic)
+### [2 - Searching](https://github.com/HenokB/Algorithms-in-Amharic/tree/main/2%20-%20Searching)
 
-### [3 - Sorting](https://github.com/HenokB/Algorithms-in-Amharic)
+### [3 - Sorting](https://github.com/HenokB/Algorithms-in-Amharic/tree/main/3%20-%20Sorting)
 
-<!-- 
-* 
-   * 
-   *  -->
+### [4 - Book Recommendation](https://github.com/HenokB/Algorithms-in-Amharic/tree/main/3%20-%20Sorting/Book%20Recommendation)
+
+
 
 
  ## Getting started
