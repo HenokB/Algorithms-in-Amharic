@@ -6,3 +6,6 @@
 
 የዳታ መዋቅር መረጃን ለማደራጀት ብቻ ጥቅም ላይ አይውልም እንዲሁም መረጃን ለመስራት፣ ሰርስሮ ለማውጣት እና ለማከማቸት(processing, retrieving, and storing data) ስራ ላይ ይውላል። በሁሉም ፕሮግራሞች ወይም ሶፍትዌሮች ውስጥ ጥቅም ላይ የሚውሉ የተለያዩ መሰረታዊ/basic እና የላቀ/advanced የመረጃ አወቃቀሮች አሉ። ስለዚህ ስለ ዳታ አወቃቀሮች ጥሩ እውቀት ሊኖረን ይገባል።
 
+ዳታ ሊቀመጥ የሚችል ማንኛውም ነገር ሊሆን ይችላል እንደ primitive types like string, boolean, integer, or float ያሉ ዓይነቶች ሊሆን ይችላል። ወይም እንደ arrays, linked list trees, stacks, and queues ዓይነቶች ሊሆን ይችላል ።
+
+
