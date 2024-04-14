@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a3 as i}from"./chunks/framework.Dh2eLG0n.js";const p=JSON.parse('{"title":"Course Requirements","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"},o=i("",21),n=[o];function s(h,l,c,m,g,d){return t(),a("div",null,n)}const k=e(r,[["render",s]]);export{p as __pageData,k as default};
